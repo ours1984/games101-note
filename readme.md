@@ -1,7 +1,7 @@
 ---
 title: 'GAMES101学习笔记'
-date: '2022/3/20 22:46:25'
-updated: '2022/3/20 20:46:25'
+date: '2021/6/20 22:46:25'
+updated: '2021/6/20 20:46:25'
 tags: [学习笔记,cg]
 abbrlink: games101
 ---
@@ -21,9 +21,11 @@ abbrlink: games101
 大家可以关注一波
 <!--more-->
 
-## 笔记大纲
+## 知识准备
 
-- [introduction](GAMES101-01.md)：[看闫大神高屋建瓴](https://blog.ours1984.top/posts/games101-01)
+- [Introduction(github only)](GAMES101-01.md)：[看闫大神高屋建瓴](https://blog.ours1984.top/posts/games101-01)
+- [Linear Algebra(github only)](GAMES101-02.md)：[看闫大神讲线性代数](https://blog.ours1984.top/posts/games101-02)
+- [Transformation(github only)](GAMES101-03.md)：[看闫大神讲变形金刚](https://blog.ours1984.top/posts/games101-03)
 
 ### 光栅化成像
 
