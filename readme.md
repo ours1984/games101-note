@@ -4,7 +4,7 @@ date: '2021/6/20 22:46:25'
 updated: '2021/6/20 20:46:25'
 tags: [学习笔记,cg]
 abbrlink: games101
-viewgit: true
+viewgit: games001-note/blob/main/readme.md
 ---
 
 ![20220523164732](https://pic.ours1984.top/img/20220523164732.png)
