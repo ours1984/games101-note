@@ -23,9 +23,9 @@ abbrlink: games101
 
 ## 知识准备
 
-- [Introduction(github only)](GAMES101-01.md)：[看闫大神高屋建瓴](https://blog.ours1984.top/posts/games101-01)
-- [Linear Algebra(github only)](GAMES101-02.md)：[看闫大神讲线性代数](https://blog.ours1984.top/posts/games101-02)
-- [Transformation(github only)](GAMES101-03.md)：[看闫大神讲变形金刚](https://blog.ours1984.top/posts/games101-03)
+- [Introduction(github only)](games101-01.md)：[看闫大神高屋建瓴](https://blog.ours1984.top/posts/games101-01)
+- [Linear Algebra(github only)](games101-02.md)：[看闫大神讲线性代数](https://blog.ours1984.top/posts/games101-02)
+- [Transformation(github only)](games101-03.md)：[看闫大神讲变形金刚](https://blog.ours1984.top/posts/games101-03)
 
 ### 光栅化成像
 
