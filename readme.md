@@ -23,8 +23,7 @@ abbrlink: games101
 
 ## 笔记大纲
 
-- [introduction](GAMES101-01)：高屋建瓴
-- {% post_link GAMES101-01.md %}
+- [introduction](GAMES101-01.md)：[看闫大神高屋建瓴](https://blog.ours1984.top/posts/games101-01)
 
 ### 光栅化成像
 
