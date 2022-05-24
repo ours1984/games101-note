@@ -1,15 +1,14 @@
 ---
 title: 'GAMES101学习笔记'
 date: '2021/4/20 22:46:25'
-updated: '2021/4/20 20:46:25'
 tags: [学习笔记,CG]
 abbrlink: games101-note
-gitrep: games001-note
+gitrep: games101-note
 ---
 
 ![20220523164732](https://pic.ours1984.top/img/20220523164732.png)
 
-## 编者按
+## 说明
 
 观看Games101过程中,记录的一些笔记,以及一些资料和作业
 
@@ -17,9 +16,9 @@ gitrep: games001-note
 
 我也会上传一些资料和自己的作业在里面,欢迎大家关注
 
-[Blog Links](https://blog.ours1984.top/posts/games101-note)
+[Blog Links: https://blog.ours1984.top/posts/games101-note](https://blog.ours1984.top/posts/games101-note)
 
-[Github Links](https://github.com/xiaoqide/games001-note)
+[Github Links: https://github.com/xiaoqide/games101-note](https://github.com/xiaoqide/games101-note)
 
 <!--more-->
 
