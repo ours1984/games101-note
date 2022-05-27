@@ -6,7 +6,11 @@ abbrlink: games101-note
 gitrep: games101-note
 ---
 
-![20220523164732](https://pic.ours1984.top/img/20220523164732.png)
+主讲: [闫令琪](https://sites.cs.ucsb.edu/~lingqi/)
+
+课程主页: <https://games-cn.org/intro-graphics/>
+
+B 站回放: <https://www.bilibili.com/video/BV1X7411F744>
 
 ## 说明
 
@@ -16,9 +20,9 @@ gitrep: games101-note
 
 我也会上传一些资料和自己的作业在里面,欢迎大家关注
 
-[Blog Links: https://blog.ours1984.top/posts/games101-note](https://blog.ours1984.top/posts/games101-note)
+博客链接: <https://blog.ours1984.top/posts/games101-note>
 
-[Github Links: https://github.com/xiaoqide/games101-note](https://github.com/xiaoqide/games101-note)
+Github链接: <https://github.com/xiaoqide/games101-note>
 
 <!--more-->
 
