@@ -14,15 +14,14 @@ B 站回放: <https://www.bilibili.com/video/BV1X7411F744>
 
 ## 说明
 
-观看Games101过程中,记录的一些笔记,以及一些资料和作业
-
-涉及到的ppt课件和作业,以及本笔记,都已同步github
-
-我也会上传一些资料和自己的作业在里面,欢迎大家关注
+观看Games101过程中,记录的一些笔记.本笔记已同步Github
+[![games101](https://github-readme-stats.vercel.app/api/pin/?username=xiaoqide&repo=games101-note&show_owner)](https://github.com/xiaoqide/games101-note)
 
 博客链接: <https://blog.ours1984.top/posts/games101-note>
 
-Github链接: <https://github.com/xiaoqide/games101-note>
+涉及到的ppt课件和作业解答,以及其他相关资料也已经同步Github
+
+[![games101](https://github-readme-stats.vercel.app/api/pin/?username=xiaoqide&repo=games101-note-code&show_owner)](https://github.com/xiaoqide/games101-note-code)
 
 <!--more-->
 
@@ -31,6 +30,7 @@ Github链接: <https://github.com/xiaoqide/games101-note>
 - [Introduction(github)](games101-01.md)：[看闫大神高屋建瓴(blog)](https://blog.ours1984.top/posts/games101-01)
 - [Linear Algebra(github)](games101-02.md)：[看闫大神讲线性代数(blog)](https://blog.ours1984.top/posts/games101-02)
 - [Transformation(github)](games101-03.md)：[看闫大神讲变形金刚(blog)](https://blog.ours1984.top/posts/games101-03)
+- [Transformation Cout(github)](games101-04.md)：[看闫大神讲观测和投影(blog)](https://blog.ours1984.top/posts/games101-04)
 
 ### 光栅化成像
 
