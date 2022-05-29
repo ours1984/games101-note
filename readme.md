@@ -6,11 +6,7 @@ abbrlink: games101-note
 gitrep: games101-note
 ---
 
-主讲: [闫令琪](https://sites.cs.ucsb.edu/~lingqi/)
-
-课程主页: <https://games-cn.org/intro-graphics/>
-
-B 站回放: <https://www.bilibili.com/video/BV1X7411F744>
+主讲: [闫令琪](https://sites.cs.ucsb.edu/~lingqi/) [课程主页](https://games-cn.org/intro-graphics/) [B站回放](https://www.bilibili.com/video/BV1X7411F744)
 
 ## 说明
 
