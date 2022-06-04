@@ -16,7 +16,7 @@ gitrep: games101-note
 
 涉及到的ppt课件和作业解答,以及其他相关资料也已经同步Github
 
-[![games101](https://github-readme-stats.vercel.app/api/pin/?username=xiaoqide&repo=opengl-note-code&show_owner)](https://github.com/xiaoqide/opengl-note-code)
+[![games101](https://github-readme-stats.vercel.app/api/pin/?username=xiaoqide&repo=note-code&show_owner)](https://github.com/xiaoqide/note-code)
 
 <!--more-->
 
