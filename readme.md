@@ -22,10 +22,10 @@ gitrep: games101-note
 
 ## 知识准备
 
-- [Introduction(github)](games101-01.md)：[看闫大神高屋建瓴(blog)](https://blog.ours1984.top/posts/games101-01)
-- [Linear Algebra(github)](games101-02.md)：[看闫大神讲线性代数(blog)](https://blog.ours1984.top/posts/games101-02)
-- [Transformation(github)](games101-03.md)：[看闫大神讲变形金刚(blog)](https://blog.ours1984.top/posts/games101-03)
-- [Transformation Cout(github)](games101-04.md)：[看闫大神讲观测和投影(blog)](https://blog.ours1984.top/posts/games101-04)
+- [Introduction(github)](games101-01.md)：[看闫大神高屋建瓴(blog)](https://blog.ours1984.top/posts/games101-01/)
+- [Linear Algebra(github)](games101-02.md)：[看闫大神讲线性代数(blog)](https://blog.ours1984.top/posts/games101-02/)
+- [Transformation(github)](games101-03.md)：[看闫大神讲变形金刚(blog)](https://blog.ours1984.top/posts/games101-03/)
+- [Transformation Cout(github)](games101-04.md)：[看闫大神讲观测和投影(blog)](https://blog.ours1984.top/posts/games101-04/)
 
 ### 光栅化成像
 
