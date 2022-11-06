@@ -12,11 +12,11 @@ gitrep: games101-note
 
 观看闫令琪Games101过程中,记录的一些笔记.本笔记已同步Github
 
-[![games101](https://github-readme-stats.vercel.app/api/pin/?username=xiaoqide&repo=games101-note&show_owner)](https://github.com/xiaoqide/games101-note)
+[![games101](https://github-readme-stats.vercel.app/api/pin/?username=ours1984&repo=games101-note&show_owner)](https://github.com/ours1984/games101-note)
 
 涉及到的ppt课件和作业解答,以及其他相关资料也已经同步Github
 
-[![games101](https://github-readme-stats.vercel.app/api/pin/?username=xiaoqide&repo=note-code&show_owner)](https://github.com/xiaoqide/note-code)
+[![games101](https://github-readme-stats.vercel.app/api/pin/?username=ours1984&repo=note-code&show_owner)](https://github.com/ours1984/note-code)
 
 <!--more-->
 
